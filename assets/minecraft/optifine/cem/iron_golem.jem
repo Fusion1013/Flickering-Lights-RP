@@ -1,0 +1,74 @@
+{
+	"textureSize": [128, 128],
+	"models": [
+		{
+			"part": "body",
+			"id": "body",
+			"invertAxis": "xy",
+			"translate": [0, -31, 0],
+			"mirrorTexture": "u",
+			"boxes": [
+				{"coordinates": [-9, 21, -6, 18, 12, 11], "textureOffset": [0, 40]},
+				{"coordinates": [-6.75, 22.5, -4.5, 8, 9, 0], "textureOffset": [4, 93]},
+				{"coordinates": [-4.5, 16, -3, 9, 5, 6], "textureOffset": [0, 70], "sizeAdd": 0.5}
+			]
+		},
+		{
+			"part": "head",
+			"id": "head",
+			"invertAxis": "xy",
+			"translate": [0, -31, 2],
+			"mirrorTexture": "u",
+			"boxes": [
+				{"coordinates": [-4, 33, -4.5, 8, 7, 8], "textureOffset": [0, 0]},
+				{"coordinates": [4, 35, -1.5, 1, 2, 2], "textureOffset": [0, 0]},
+				{"coordinates": [-5, 35, -1.5, 1, 2, 2], "textureOffset": [0, 0]},
+				{"coordinates": [-3.5, 33.5, -4, 7, 6, 7], "textureOffset": [0, 21]}
+			]
+		},
+		{
+			"part": "left_arm",
+			"id": "left_arm",
+			"invertAxis": "xy",
+			"translate": [0, -31, 0],
+			"mirrorTexture": "u",
+			"boxes": [
+				{"coordinates": [-13, 23.5, 3, 4, 10, -6], "textureOffset": [74, 78]},
+				{"coordinates": [-14, 4.5, -4, 6, 15, 8], "textureOffset": [38, 97]},
+				{"coordinates": [-12, 19.5, -2, 3, 4, 4], "textureOffset": [86, 18]}
+			]
+		},
+		{
+			"part": "right_arm",
+			"id": "right_arm",
+			"invertAxis": "xy",
+			"translate": [0, -31, 0],
+			"mirrorTexture": "u",
+			"boxes": [
+				{"coordinates": [9, 23.5, -3, 4, 10, 6], "textureOffset": [60, 58]},
+				{"coordinates": [9, 19.5, -2, 3, 4, 4], "textureOffset": [83, 1]},
+				{"coordinates": [8, 4.5, -4, 6, 15, 8], "textureOffset": [74, 97]}
+			]
+		},
+		{
+			"part": "left_leg",
+			"id": "left_leg",
+			"invertAxis": "xy",
+			"translate": [-4, -13, 0],
+			"mirrorTexture": "u",
+			"boxes": [
+				{"coordinates": [1.5, 0, -3, 6, 16, 5], "textureOffset": [37, 0]}
+			]
+		},
+		{
+			"part": "right_leg",
+			"id": "right_leg",
+			"invertAxis": "xy",
+			"translate": [1, -13, 0],
+			"mirrorTexture": "u",
+			"boxes": [
+				{"coordinates": [-2.5, 0, -3, 6, 16, 5], "textureOffset": [60, 0]}
+			]
+		}
+	]
+}
