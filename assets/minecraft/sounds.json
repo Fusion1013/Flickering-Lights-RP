@@ -1,0 +1,34 @@
+{
+    "amb_metal_groan.1": {
+        "sounds": [
+            "custom/ambience/metal_groan_1"
+        ],
+        "category": "ambience"
+    },
+    "amb_metal_groan.2": {
+        "sounds": [
+            "custom/ambience/metal_groan_2"
+        ],
+        "category": "ambience"
+    },
+    "amb_metal_groan.3": {
+        "sounds": [
+            "custom/ambience/metal_groan_3"
+        ],
+        "category": "ambience"
+    },
+    "amb_metal_groan.4": {
+        "sounds": [
+            "custom/ambience/metal_groan_4"
+        ],
+        "category": "ambience"
+    },
+    "amb_metal_bg.1": {
+        "sounds": [
+            {
+                "name": "custom/ambience/metal_background_2"
+            }
+        ],
+        "category": "ambient"
+    }
+}
