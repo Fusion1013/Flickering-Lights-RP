@@ -30,5 +30,31 @@
             }
         ],
         "category": "ambient"
+    },
+    
+    "sfx_gear_clonk.1": {
+        "sounds": [
+            {
+                "name": "custom/sfx/gear/clonk_1"
+            }
+        ],
+        "category": "blocks"
+    },
+    "sfx_gear_thud.1": {
+        "sounds": [
+            {
+                "name": "custom/sfx/gear/thud_1"
+            }
+        ],
+        "category": "blocks"
+    },
+
+    "music_approaching_the_gates": {
+        "sounds": [
+            {
+                "name": "custom/music/voidtrain-approaching_the_gates"
+            }
+        ],
+        "category": "music"
     }
 }
