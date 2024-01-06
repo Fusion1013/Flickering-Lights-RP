@@ -1,41 +1,169 @@
 {
-    "amb_metal_groan.1": {
+    "amb.metal.groan.1": {
         "sounds": [
-            "custom/ambience/metal_groan_1"
+            "custom/ambience/metal/metal_groan_1"
         ],
         "category": "ambience"
     },
-    "amb_metal_groan.2": {
+    "amb.metal.groan.2": {
         "sounds": [
-            "custom/ambience/metal_groan_2"
+            "custom/ambience/metal/metal_groan_2"
         ],
         "category": "ambience"
     },
-    "amb_metal_groan.3": {
+    "amb.metal.groan.3": {
         "sounds": [
-            "custom/ambience/metal_groan_3"
+            "custom/ambience/metal/metal_groan_3"
         ],
         "category": "ambience"
     },
-    "amb_metal_groan.4": {
+    "amb.metal.groan.4": {
         "sounds": [
-            "custom/ambience/metal_groan_4"
+            "custom/ambience/metal/metal_groan_4"
         ],
         "category": "ambience"
     },
-    "amb_metal_bg.1": {
+    "amb.metal.groan.mixed": {
         "sounds": [
             {
-                "name": "custom/ambience/metal_background_2"
+                "name": "custom/ambience/metal/metal_groan_1"
+            },
+            {
+                "name": "custom/ambience/metal/metal_groan_2"
+            },
+            {
+                "name": "custom/ambience/metal/metal_groan_3"
+            },
+            {
+                "name": "custom/ambience/metal/metal_groan_4"
+            }
+        ],
+        "category": "ambience"
+    },
+    "amb.metal.groan.mixed_quiet": {
+        "sounds": [
+            {
+                "name": "custom/ambience/metal/metal_groan_1",
+                "volume": 0.25
+            },
+            {
+                "name": "custom/ambience/metal/metal_groan_2",
+                "volume": 0.25
+            },
+            {
+                "name": "custom/ambience/metal/metal_groan_3",
+                "volume": 0.25
+            },
+            {
+                "name": "custom/ambience/metal/metal_groan_4",
+                "volume": 0.25
+            }
+        ],
+        "category": "ambience"
+    },
+    "amb.metal.background.1": {
+        "sounds": [
+            {
+                "name": "custom/ambience/metal/metal_background_1"
+            }
+        ],
+        "category": "ambient"
+    },
+    "amb.ominous.lights_out.1": {
+        "sounds": [
+            {
+                "name": "custom/ambience/ominous/lights_out_1",
+                "volume": 2.0
+            }
+        ],
+        "category": "ambient"
+    },
+
+    "amb_gust_cave_gust.1": {
+        "sounds": [
+            {
+                "name": "custom/ambience/gust/cave_gust_1"
+            }
+        ],
+        "category": "ambient"
+    },
+    "amb_gust_cave_gust.2": {
+        "sounds": [
+            {
+                "name": "custom/ambience/gust/cave_gust_2"
+            }
+        ],
+        "category": "ambient"
+    },
+    "amb_gust_cave_gust.3": {
+        "sounds": [
+            {
+                "name": "custom/ambience/gust/cave_gust_3"
+            }
+        ],
+        "category": "ambient"
+    },
+    "amb_gust_cave_gust.4": {
+        "sounds": [
+            {
+                "name": "custom/ambience/gust/cave_gust_4"
+            }
+        ],
+        "category": "ambient"
+    },
+    "amb_gust_cave_gust.5": {
+        "sounds": [
+            {
+                "name": "custom/ambience/gust/cave_gust_5"
+            }
+        ],
+        "category": "ambient"
+    },
+    "amb_gust_cave_gust.6": {
+        "sounds": [
+            {
+                "name": "custom/ambience/gust/cave_gust_6"
+            }
+        ],
+        "category": "ambient"
+    },
+    "amb_gust_cave_gust.7": {
+        "sounds": [
+            {
+                "name": "custom/ambience/gust/cave_gust_7"
+            }
+        ],
+        "category": "ambient"
+    },
+    "amb_gust_cave_gust.8": {
+        "sounds": [
+            {
+                "name": "custom/ambience/gust/cave_gust_8"
+            }
+        ],
+        "category": "ambient"
+    },
+    "amb_gust_cave_gust.9": {
+        "sounds": [
+            {
+                "name": "custom/ambience/gust/cave_gust_9"
             }
         ],
         "category": "ambient"
     },
     
-    "sfx_gear_clonk.1": {
+    "sfx.gear_clonk.1": {
         "sounds": [
             {
                 "name": "custom/sfx/gear/clonk_1"
+            }
+        ],
+        "category": "blocks"
+    },
+    "sfx.gear_clonk.2": {
+        "sounds": [
+            {
+                "name": "custom/sfx/gear/clonk_2"
             }
         ],
         "category": "blocks"
@@ -48,13 +176,159 @@
         ],
         "category": "blocks"
     },
+    "sfx.electric.light_flicker.1": {
+        "sounds": [
+            {
+                "name": "custom/sfx/electric/light_flicker_1"
+            }
+        ],
+        "category": "blocks"
+    },
+    "sfx.electric.spark.mixed": {
+        "sounds": [
+            {
+                "name": "custom/sfx/electric/spark_01"
+            },
+            {
+                "name": "custom/sfx/electric/spark_02"
+            },
+            {
+                "name": "custom/sfx/electric/spark_03"
+            },
+            {
+                "name": "custom/sfx/electric/spark_04"
+            },
+            {
+                "name": "custom/sfx/electric/spark_05"
+            },
+            {
+                "name": "custom/sfx/electric/spark_06"
+            },
+            {
+                "name": "custom/sfx/electric/spark_07"
+            },
+            {
+                "name": "custom/sfx/electric/spark_08"
+            },
+            {
+                "name": "custom/sfx/electric/spark_09"
+            },
+            {
+                "name": "custom/sfx/electric/spark_10"
+            },
+            {
+                "name": "custom/sfx/electric/spark_11"
+            },
+            {
+                "name": "custom/sfx/electric/spark_12"
+            },
+            {
+                "name": "custom/sfx/electric/spark_13"
+            }
+        ],
+        "category": "blocks"
+    },
+    "sfx.metal.shudder.1": {
+        "sounds": [
+            {
+                "name": "custom/sfx/metal/shudder_1"
+            }
+        ],
+        "category": "blocks"
+    },
+    "sfx.metal.creak.mixed": {
+        "sounds": [
+            {
+                "name": "custom/sfx/metal/creak_1",
+                "volume": 0.1
+            },
+            {
+                "name": "custom/sfx/metal/creak_2",
+                "volume": 0.1
+            },
+            {
+                "name": "custom/sfx/metal/creak_3",
+                "volume": 0.1
+            },
+            {
+                "name": "custom/sfx/metal/creak_4",
+                "volume": 0.1
+            }
+        ],
+        "category": "blocks"
+    },
+    "sfx.metal.creak.1": {
+        "sounds": [
+            {
+                "name": "custom/sfx/metal/creak_1"
+            }
+        ],
+        "category": "blocks"
+    },
+    "sfx.metal.creak.2": {
+        "sounds": [
+            {
+                "name": "custom/sfx/metal/creak_2"
+            }
+        ],
+        "category": "blocks"
+    },
+    "sfx.metal.creak.3": {
+        "sounds": [
+            {
+                "name": "custom/sfx/metal/creak_3"
+            }
+        ],
+        "category": "blocks"
+    },
+    "sfx.metal.creak.4": {
+        "sounds": [
+            {
+                "name": "custom/sfx/metal/creak_4"
+            }
+        ],
+        "category": "blocks"
+    },
+    "sfx.metal.door_open_start": {
+        "sounds": [
+            {
+                "name": "custom/sfx/metal/door_open_start"
+            }
+        ],
+        "category": "blocks"
+    },
+    "sfx.metal.door_open_stop": {
+        "sounds": [
+            {
+                "name": "custom/sfx/metal/door_open_stop"
+            }
+        ],
+        "category": "blocks"
+    },
+    "sfx.metal.door_close_start": {
+        "sounds": [
+            {
+                "name": "custom/sfx/metal/door_close_start"
+            }
+        ],
+        "category": "blocks"
+    },
+    "sfx.metal.door_close_stop": {
+        "sounds": [
+            {
+                "name": "custom/sfx/metal/door_close_stop"
+            }
+        ],
+        "category": "blocks"
+    },
 
     "music_approaching_the_gates": {
         "sounds": [
             {
-                "name": "custom/music/voidtrain-approaching_the_gates"
+                "name": "custom/music/voidtrain-approaching_the_gates",
+                "volume": 1.0,
+                "stream": true
             }
-        ],
-        "category": "music"
+        ]
     }
 }
