@@ -151,6 +151,14 @@
         ],
         "category": "ambient"
     },
+    "amb.gust.cave_wind": {
+        "sounds": [
+            {
+                "name": "custom/ambience/gust/cave_wind"
+            }
+        ],
+        "category": "ambient"
+    },
     
     "sfx.gear_clonk.1": {
         "sounds": [
