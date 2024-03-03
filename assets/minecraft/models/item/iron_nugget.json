@@ -3,5 +3,6 @@
     {"predicate":{"custom_model_data":2},"model":"custom/block/herb_jar"},
     {"predicate":{"custom_model_data":3},"model":"custom/block/jar_brain_item"},
     {"predicate":{"custom_model_data":4},"model":"custom/block/jar_normal"},
-    {"predicate":{"custom_model_data":5},"model":"custom/block/jar_void"}
+    {"predicate":{"custom_model_data":5},"model":"custom/block/jar_void"},
+    {"predicate":{"custom_model_data":6},"model":"custom/block/candlestick"}
 ]}
