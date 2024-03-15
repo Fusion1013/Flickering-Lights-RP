@@ -338,5 +338,14 @@
                 "stream": true
             }
         ]
+    },
+    "music_forbidden_archives": {
+        "sounds": [
+            {
+                "name": "custom/music/eote_forbidden_archives",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
     }
 }
