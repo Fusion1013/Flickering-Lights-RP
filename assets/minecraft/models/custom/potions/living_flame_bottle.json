@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "custom/potions/living_flame_overlay",
+    "layer1": "minecraft:item/potion"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "custom/potions/wine_glass_overlay",
+    "layer1": "custom/potions/empty_wine_glass"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "custom/potions/round_bottle_overlay",
+    "layer1": "custom/potions/empty_round_bottle"
+  }
+}
