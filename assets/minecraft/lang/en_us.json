@@ -1,4 +1,15 @@
 {
     "soundCategory.music": "Vanilla Music",
-    "soundCategory.record": "Custom Music"
+    "soundCategory.record": "Custom Music",
+
+    
+    "item.minecraft.silverfish_spawn_egg": "Rat Spawn Egg",
+    "entity.minecraft.silverfish": "Rat",
+    "subtitles.entity.silverfish.ambient": "Rat squeaks",
+    "subtitles.entity.silverfish.death": "Rat dies",
+    "subtitles.entity.silverfish.hurt": "Rat hurts",
+    "item.minecraft.endermite_spawn_egg": "Ender Rat Spawn Egg",
+    "subtitles.entity.endermite.ambient": "Ender Rat squeaks",
+    "subtitles.entity.endermite.death": "Ender Rat dies",
+    "subtitles.entity.endermite.hurt": "Ender Rat hurts"
 }
