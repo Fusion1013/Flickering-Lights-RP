@@ -265,6 +265,27 @@
         ],
         "category": "blocks"
     },
+    "sfx.metal.creak.mixed_loud": {
+        "sounds": [
+            {
+                "name": "custom/sfx/metal/creak_1",
+                "volume": 0.3
+            },
+            {
+                "name": "custom/sfx/metal/creak_2",
+                "volume": 0.3
+            },
+            {
+                "name": "custom/sfx/metal/creak_3",
+                "volume": 0.3
+            },
+            {
+                "name": "custom/sfx/metal/creak_4",
+                "volume": 0.3
+            }
+        ],
+        "category": "blocks"
+    },
     "sfx.metal.creak.1": {
         "sounds": [
             {
@@ -325,6 +346,14 @@
         "sounds": [
             {
                 "name": "custom/sfx/metal/door_close_stop"
+            }
+        ],
+        "category": "blocks"
+    },
+    "sfx.misc.gong.1": {
+        "sounds": [
+            {
+                "name": "custom/sfx/misc/gong1"
             }
         ],
         "category": "blocks"
