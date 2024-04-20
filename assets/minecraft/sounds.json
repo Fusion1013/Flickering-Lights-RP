@@ -159,6 +159,203 @@
         ],
         "category": "ambient"
     },
+
+
+    "amb.drone.ominous_1": {
+        "sounds": [
+            {
+                "name": "custom/ambience/drones/ambient_drone_ominous_1"
+            }
+        ]
+    },
+    "amb.drone.ominous_2": {
+        "sounds": [
+            {
+                "name": "custom/ambience/drones/ambient_drone_ominous_2"
+            }
+        ]
+    },
+    "amb.drone.ominous_3": {
+        "sounds": [
+            {
+                "name": "custom/ambience/drones/ambient_drone_ominous_3"
+            }
+        ]
+    },
+    "amb.drone.ominous_4": {
+        "sounds": [
+            {
+                "name": "custom/ambience/drones/ambient_drone_ominous_4"
+            }
+        ]
+    },
+    "amb.drone.ominous_5": {
+        "sounds": [
+            {
+                "name": "custom/ambience/drones/ambient_drone_ominous_5"
+            }
+        ]
+    },
+    "amb.drone.ominous_6": {
+        "sounds": [
+            {
+                "name": "custom/ambience/drones/ambient_drone_ominous_6"
+            }
+        ]
+    },
+    "amb.drone.ominous_7": {
+        "sounds": [
+            {
+                "name": "custom/ambience/drones/ambient_drone_ominous_7"
+            }
+        ]
+    },
+    "amb.drone.ominous_8": {
+        "sounds": [
+            {
+                "name": "custom/ambience/drones/ambient_drone_ominous_8"
+            }
+        ]
+    },
+    "amb.drone.ominous_9": {
+        "sounds": [
+            {
+                "name": "custom/ambience/drones/ambient_drone_ominous_9"
+            }
+        ]
+    },
+    "amb.drone.ominous": {
+        "sounds": [
+            {"name": "custom/ambience/drones/ambient_drone_ominous_1"},
+            {"name": "custom/ambience/drones/ambient_drone_ominous_2"},
+            {"name": "custom/ambience/drones/ambient_drone_ominous_3"},
+            {"name": "custom/ambience/drones/ambient_drone_ominous_4"},
+            {"name": "custom/ambience/drones/ambient_drone_ominous_5"},
+            {"name": "custom/ambience/drones/ambient_drone_ominous_6"},
+            {"name": "custom/ambience/drones/ambient_drone_ominous_7"},
+            {"name": "custom/ambience/drones/ambient_drone_ominous_8"},
+            {"name": "custom/ambience/drones/ambient_drone_ominous_9"}
+        ]
+    },
+
+    "amb.metal.creak_1": {
+        "sounds": [
+            {"name": "custom/ambience/metal/metal_creak_1"}
+        ]
+    },
+    "amb.metal.creak_2": {
+        "sounds": [
+            {"name": "custom/ambience/metal/metal_creak_2"}
+        ]
+    },
+    "amb.metal.creak_3": {
+        "sounds": [
+            {"name": "custom/ambience/metal/metal_creak_3"}
+        ]
+    },
+    "amb.metal.creak_4": {
+        "sounds": [
+            {"name": "custom/ambience/metal/metal_creak_4"}
+        ]
+    },
+    "amb.metal.creak_5": {
+        "sounds": [
+            {"name": "custom/ambience/metal/metal_creak_5"}
+        ]
+    },
+    "amb.metal.creak_6": {
+        "sounds": [
+            {"name": "custom/ambience/metal/metal_creak_6"}
+        ]
+    },
+    "amb.metal.creak_7": {
+        "sounds": [
+            {"name": "custom/ambience/metal/metal_creak_7"}
+        ]
+    },
+    "amb.metal.creak_8": {
+        "sounds": [
+            {"name": "custom/ambience/metal/metal_creak_8"}
+        ]
+    },
+    "amb.metal.creak_9": {
+        "sounds": [
+            {"name": "custom/ambience/metal/metal_creak_9"}
+        ]
+    },
+    "amb.metal.creak": {
+        "sounds": [
+            {"name": "custom/ambience/metal/metal_creak_1"},
+            {"name": "custom/ambience/metal/metal_creak_2"},
+            {"name": "custom/ambience/metal/metal_creak_3"},
+            {"name": "custom/ambience/metal/metal_creak_4"},
+            {"name": "custom/ambience/metal/metal_creak_5"},
+            {"name": "custom/ambience/metal/metal_creak_6"},
+            {"name": "custom/ambience/metal/metal_creak_7"},
+            {"name": "custom/ambience/metal/metal_creak_8"},
+            {"name": "custom/ambience/metal/metal_creak_9"}
+        ]
+    },
+
+    "amb.stone.crumble_1": {
+        "sounds": [
+            {"name": "custom/ambience/stone/rock_crumble_1"}
+        ]
+    },
+    "amb.stone.crumble_2": {
+        "sounds": [
+            {"name": "custom/ambience/stone/rock_crumble_2"}
+        ]
+    },
+    "amb.stone.crumble_3": {
+        "sounds": [
+            {"name": "custom/ambience/stone/rock_crumble_3"}
+        ]
+    },
+    "amb.stone.crumble_4": {
+        "sounds": [
+            {"name": "custom/ambience/stone/rock_crumble_4"}
+        ]
+    },
+    "amb.stone.crumble_5": {
+        "sounds": [
+            {"name": "custom/ambience/stone/rock_crumble_5"}
+        ]
+    },
+    "amb.stone.crumble_6": {
+        "sounds": [
+            {"name": "custom/ambience/stone/rock_crumble_6"}
+        ]
+    },
+    "amb.stone.crumble_7": {
+        "sounds": [
+            {"name": "custom/ambience/stone/rock_crumble_7"}
+        ]
+    },
+    "amb.stone.crumble_8": {
+        "sounds": [
+            {"name": "custom/ambience/stone/rock_crumble_8"}
+        ]
+    },
+    "amb.stone.crumble_9": {
+        "sounds": [
+            {"name": "custom/ambience/stone/rock_crumble_9"}
+        ]
+    },
+    "amb.stone.crumble": {
+        "sounds": [
+            {"name": "custom/ambience/stone/rock_crumble_1"},
+            {"name": "custom/ambience/stone/rock_crumble_2"},
+            {"name": "custom/ambience/stone/rock_crumble_3"},
+            {"name": "custom/ambience/stone/rock_crumble_4"},
+            {"name": "custom/ambience/stone/rock_crumble_5"},
+            {"name": "custom/ambience/stone/rock_crumble_6"},
+            {"name": "custom/ambience/stone/rock_crumble_7"},
+            {"name": "custom/ambience/stone/rock_crumble_8"},
+            {"name": "custom/ambience/stone/rock_crumble_9"}
+        ]
+    },
+
     
     "sfx.gear_clonk.1": {
         "sounds": [
