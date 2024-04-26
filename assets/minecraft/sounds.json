@@ -356,6 +356,57 @@
         ]
     },
 
+    "amb.forest.animal_1": {
+        "sounds": [
+            {"name": "custom/ambience/forest/forest_animal_1", "volume": 0.1}
+        ]
+    },
+    "amb.forest.animal_2": {
+        "sounds": [
+            {"name": "custom/ambience/forest/forest_animal_2", "volume": 0.1}
+        ]
+    },
+    "amb.forest.animal_3": {
+        "sounds": [
+            {"name": "custom/ambience/forest/forest_animal_3", "volume": 0.1}
+        ]
+    },
+    "amb.forest.animal_4": {
+        "sounds": [
+            {"name": "custom/ambience/forest/forest_animal_4", "volume": 0.1}
+        ]
+    },
+    "amb.forest.animal": {
+        "sounds": [
+            {"name": "custom/ambience/forest/forest_animal_1", "volume": 0.1},
+            {"name": "custom/ambience/forest/forest_animal_2", "volume": 0.1},
+            {"name": "custom/ambience/forest/forest_animal_3", "volume": 0.1},
+            {"name": "custom/ambience/forest/forest_animal_4", "volume": 0.1}
+        ]
+    },
+    "amb.forest.ambience_1": {
+        "sounds": [
+            {"name": "custom/ambience/forest/forest_ambience_1", "volume": 1.0}
+        ]
+    },
+
+
+    "amb.water.calm_2": {
+        "sounds": [
+            {"name": "custom/ambience/water/water_calm_2", "volume": 0.1}
+        ]
+    },
+    "amb.water.creek_5": {
+        "sounds": [
+            {"name": "custom/ambience/water/water_creek_5", "volume": 0.7}
+        ]
+    },
+    "amb.water.creek_8": {
+        "sounds": [
+            {"name": "custom/ambience/water/water_creek_8", "volume": 0.7}
+        ]
+    },
+
     
     "sfx.gear_clonk.1": {
         "sounds": [
