@@ -670,6 +670,15 @@
             }
         ]
     },
+    "music.everything_will_melt": {
+        "sounds": [
+            {
+                "name": "custom/music/poppy_playtime-everything_will_melt",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
 
 
     "entity.endermite.ambient": {
