@@ -607,7 +607,7 @@
         "category": "blocks"
     },
 
-    "music_approaching_the_gates": {
+    "music.approaching_the_gates": {
         "sounds": [
             {
                 "name": "custom/music/voidtrain-approaching_the_gates",
@@ -616,10 +616,55 @@
             }
         ]
     },
-    "music_forbidden_archives": {
+    "music.forbidden_archives": {
         "sounds": [
             {
                 "name": "custom/music/eote_forbidden_archives",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+    "music.eternal_halls": {
+        "sounds": [
+            {
+                "name": "custom/music/eote-eternal_halls",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+    "music.into_the_vault": {
+        "sounds": [
+            {
+                "name": "custom/music/eote-into_the_vault",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+    "music.a_doll_in_distress": {
+        "sounds": [
+            {
+                "name": "custom/music/poppy_playtime-a_doll_in_distress",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+    "music.fly_in_a_web": {
+        "sounds": [
+            {
+                "name": "custom/music/poppy_playtime-fly_in_a_web",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+    "music.the_forbidden_tower": {
+        "sounds": [
+            {
+                "name": "custom/music/talos-the_forbidden_tower",
                 "volume": 1.0,
                 "stream": true
             }
