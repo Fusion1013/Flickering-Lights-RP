@@ -679,6 +679,15 @@
             }
         ]
     },
+    "music.insomnia": {
+        "sounds": [
+            {
+                "name": "custom/music/2wei-insomnia",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
 
 
     "entity.endermite.ambient": {
