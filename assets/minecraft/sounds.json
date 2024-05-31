@@ -432,6 +432,75 @@
         ],
         "category": "blocks"
     },
+    "sfx_valve_air_open.1": {
+        "sounds": [
+            {
+                "name": "custom/sfx/valve/air_valve_open"
+            }
+        ],
+        "category": "blocks"
+    },
+    "sfx_valve_air_close.1": {
+        "sounds": [
+            {
+                "name": "custom/sfx/valve/air_valve_close"
+            }
+        ],
+        "category": "blocks"
+    },
+    "sfx.valve_air_leak_loop": {
+        "sounds": [
+            {
+                "name": "custom/sfx/valve/air_leak_loop_1",
+                "volume": 0.05
+            },
+            {
+                "name": "custom/sfx/valve/air_leak_loop_2",
+                "volume": 0.05
+            },
+            {
+                "name": "custom/sfx/valve/air_leak_loop_3",
+                "volume": 0.05
+            },
+            {
+                "name": "custom/sfx/valve/air_leak_loop_4",
+                "volume": 0.05
+            },
+            {
+                "name": "custom/sfx/valve/air_leak_loop_5",
+                "volume": 0.05
+            },
+            {
+                "name": "custom/sfx/valve/air_leak_loop_6",
+                "volume": 0.05
+            },
+            {
+                "name": "custom/sfx/valve/air_leak_loop_7",
+                "volume": 0.05
+            },
+            {
+                "name": "custom/sfx/valve/air_leak_loop_8",
+                "volume": 0.05
+            },
+            {
+                "name": "custom/sfx/valve/air_leak_loop_9",
+                "volume": 0.05
+            },
+            {
+                "name": "custom/sfx/valve/air_leak_loop_10",
+                "volume": 0.05
+            }
+        ],
+        "category": "blocks"
+    },
+    "sfx.valve_air_refill": {
+        "sounds": [
+            {
+                "name": "custom/sfx/valve/air_refill"
+            }
+        ],
+        "category": "blocks"
+    },
     "sfx.electric.light_flicker.1": {
         "sounds": [
             {
